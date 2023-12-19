@@ -27,7 +27,7 @@
 }
 
 .logo_container h1{
-    color: rgb(255, 254, 254);
+    color: rgb(255, 255, 255);
     height: 100%;
     display: table-cell;
     vertical-align: middle;
@@ -55,7 +55,7 @@
     height: 100%;
     display: table;
     float: left;
-    padding: 0px 20px;
+    padding: 0px 25px;
 }
 
 .navigation a li {
